@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `JOY WORLD`,
+    title: `Through 25MM`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@Faiz Mohd`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
